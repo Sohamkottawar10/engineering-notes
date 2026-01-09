@@ -1,4 +1,3 @@
-```markdown
 # Python Imports, Conda, Virtual Environments — How It Really Works
 
 ## Key Rule (Everything Else Follows)
@@ -15,7 +14,6 @@ guarantee isolation or priority.
 
 `sys.path` is an ordered list of directories that Python searches when you run:
 
-```python
 import transformers
 
 ## Typical Import Order, when you perform import X (any package X)
